@@ -312,4 +312,4 @@ Except the Harris and ORB detector, most of the detectors seemed to working fine
 
 
 
-
+Plus the detailed result and summary is mentioned in the spreadsheets which is available in the build folder.
